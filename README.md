@@ -1,4 +1,4 @@
-### Hi! I'm Pamella Cruz 
+### Hi! I'm P.Cruz 
 
 - 🌱 I’m currently learning Python
 - 🗺 Brazilian citizen eligible to work full-time in the Republic of Ireland.
