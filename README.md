@@ -1,8 +1,12 @@
 ### Hi! I'm P.Cruz 
 
-- 🌱 I’m currently learning Python
-- 🗺 Brazilian citizen eligible to work full-time in the Republic of Ireland.
-- 📫 How to reach me: suporte.pamella@gmail.com
+- Brazilian citizen eligible to work full-time in the Republic of Ireland.
+
+Currently studying the Python language. I am looking for entry-level positions in this language.
+I am a team player, I like to learn and help.
+
+IT support professional with over 6 years of experience assisting customers with hardware and software related issues. In-depth technical support for Tier 1 and Tier 2 customers.
+- How to reach me: suporte.pamella@gmail.com
 
 <div align="center">
   <a href="https://github.com/Pamella30">
