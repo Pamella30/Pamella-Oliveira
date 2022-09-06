@@ -2,7 +2,7 @@
 
 - Brazilian citizen eligible to work full-time in the Republic of Ireland.
 
-Currently studying the Python language. I am looking for entry-level positions in this language.
+Currently studying HTML-CSS-JavaScript. I am looking for entry-level positions.
 I am a team player, I like to learn and help.
 
 IT support professional with over 6 years of experience assisting customers with hardware and software related issues. In-depth technical support for Tier 1 and Tier 2 customers.
